@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Tensorflow on Windows 10 using VS2017CC
+output/
+.vs/
+MachineLearningPractice.pyproj

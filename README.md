@@ -1,11 +1,37 @@
 # My Machine Learning Repository
-* The plan is to have a whole bunch of machine learning code here
-* Currently a whole bunch of practice problems
+* Store my Machine Learning code here
+* Currently a Whole Bunch of practice problems
+
+# Style Transfer Sample - Self Portrait
+Here is an example of a "practical"/artistic application of machine learning
+<div align='center'>
+<img src = 'samples/joe/original.jpg' height="200px">
+</div>
+     
+<div align = 'center'>
+<a href = 'samples/style/wave.jpg'><img src = 'samples/thumbs/wave.jpg' height = '200px'></a>
+<img src = 'samples/joe/wave.jpg' height = '200px'>
+<img src = 'samples/joe/udnie.jpg' height = '200px'>
+<a href = 'samples/style/udnie.jpg'><img src = 'samples/thumbs/udnie.jpg' height = '200px'></a>
+<br>
+<a href = 'samples/style/rain_princess.jpg'><img src = 'samples/thumbs/rain_princess.jpg' height = '200px'></a>
+<img src = 'samples/joe/rain_princess.jpg' height = '200px'>
+<img src = 'samples/joe/la_muse.jpg' height = '200px'>
+<a href = 'samples/style/la_muse.jpg'><img src = 'samples/thumbs/la_muse.jpg' height = '200px'></a>
+
+<br>
+<a href = 'samples/style/the_shipwreck_of_the_minotaur.jpg'><img src = 'samples/thumbs/the_shipwreck_of_the_minotaur.jpg' height = '200px'></a>
+<img src = 'samples/joe/wreck.jpg' height = '200px'>
+<img src = 'samples/joe/scream.jpg' height = '200px'>
+<a href = 'samples/style/the_scream.jpg'><img src = 'samples/thumbs/the_scream.jpg' height = '200px'></a>
+</div>
+
+The code I credit to [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
 
 # Holy Cow - It's Alive
-* I Frankansteined My Workflow, but I can now comfortably code from the comfort of my main Windows 10 computer
-* Installing this on Windows was not "FUN"
-* <Having The Photoshop/DAW Tools> a couple clicks might be worth it though
+* Frankansteined my workflow, but I can now code from the comfort of my main Windows 10 workstation
+* Installing tensorflow on Windows was not "fun"
+* <Having my Photoshop/DAW tools> a couple clicks might be worth it though
 
 # Instructions - For Windows 10 (Cause I'm Too Crazy/Lazy To Just Dual Boot Ubuntu On My Main PC)
 * **Linux Subsystem on Windows 10 does not currently allow NVIDIA GPU use**
@@ -32,4 +58,8 @@
 * Sacrifice A Young Animal
 * Pray to Cthulhu
 
-* Start Some Machine Learning Excercises On Windows 10
+* Start some Machine Learning excercises on Windows 10
+
+# Credits
+* Lots of the sample Machine Learning code I is from TensorFlow website
+* The sample images where generated with code from [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)

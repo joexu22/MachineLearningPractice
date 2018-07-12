@@ -34,17 +34,17 @@
 <img src = 'samples/other/style/style.jpg' height="200px">
 </div>
 <div align = 'center'>
-<img src = 'samples/other/input/arctic_wave_input.jpg' height="200px">
-<img src = 'samples/other/input/beach_input.jpg' height="200px">
+<img src = 'samples/other/in/arctic_wave_input.jpg' height="200px">
+<img src = 'samples/other/in/beach_input.jpg' height="200px">
 <br>
-<img src = 'samples/other/output/arctic_wave_output.jpg' height="200px"'>
-<img src = 'samples/other/output/beach_output.jpg' height="200px"'>
+<img src = 'samples/other/out/arctic_wave_output.jpg' height="200px"'>
+<img src = 'samples/other/out/beach_output.jpg' height="200px"'>
 <br>
-<img src = 'samples/other/input/beach_chairs_input.jpg' height="200px" width="350px">
-<img src = 'samples/other/output/beach_chairs_output.jpg' height="200px" width="350px">
+<img src = 'samples/other/in/beach_chairs_input.jpg' height="200px" width="350px">
+<img src = 'samples/other/out/beach_chairs_output.jpg' height="200px" width="350px">
 <br>
-<img src = 'samples/other/input/ship_input.jpg' height="200px" width="350px">
-<img src = 'samples/other/output/ship_output.jpg' height="200px" width="350px">
+<img src = 'samples/other/in/ship_input.jpg' height="200px" width="350px">
+<img src = 'samples/other/out/ship_output.jpg' height="200px" width="350px">
 </div>
 
 * I didn't end up making lots of these as it takes half-a-day/all-night to generate the "checkpoints"

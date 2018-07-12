@@ -3,7 +3,7 @@
 * Currently a Whole Bunch of practice problems
 
 # Style Transfer Sample - Self Portrait
-Here is an example of a "practical"/artistic application of machine learning
+* Here is an example of a "practical"/artistic application of machine learning
 <div align='center'>
 <img src = 'samples/joe/original.jpg' height="200px">
 </div>

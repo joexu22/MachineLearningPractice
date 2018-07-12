@@ -32,6 +32,7 @@
 # Other Samples
 <div align='center'>
 <img src = 'samples/other/style/style.jpg' height="200px">
+</div>
 <div align = 'center'>
 <img src = 'samples/other/input/arctic_wave_input.jpg' height="200px">
 <img src = 'samples/other/input/beach_input.jpg' height="200px">

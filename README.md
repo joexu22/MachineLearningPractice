@@ -26,7 +26,28 @@ Here is an example of a "practical"/artistic application of machine learning
 <a href = 'samples/style/the_scream.jpg'><img src = 'samples/thumbs/the_scream.jpg' height = '200px'></a>
 </div>
 
-The code I credit to [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
+* My own fork of the code is [here](https://github.com/joexu22/fast-style-transfer)
+* The code I credit to [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
+
+# Other Samples
+<div align='center'>
+<img src = 'samples/other/style/style.jpg' height="200px">
+<div align = 'center'>
+<img src = 'samples/other/input/arctic_wave_input.jpg' height="200px">
+<img src = 'samples/other/input/beach_input.jpg' height="200px">
+<br>
+<img src = 'samples/other/output/arctic_wave_output.jpg' height="200px"'>
+<img src = 'samples/other/output/beach_output.jpg' height="200px"'>
+<br>
+<img src = 'samples/other/input/beach_chairs_input.jpg' height="200px" width="350px">
+<img src = 'samples/other/output/beach_chairs_output.jpg' height="200px" width="350px">
+<br>
+<img src = 'samples/other/input/ship_input.jpg' height="200px" width="350px">
+<img src = 'samples/other/output/ship_output.jpg' height="200px" width="350px">
+</div>
+
+* I didn't end up making lots of these as it takes half-a-day/all-night to generate the "checkpoints"
+
 
 # Holy Cow - It's Alive
 * Frankansteined my workflow, but I can now code from the comfort of my main Windows 10 workstation
